@@ -1,0 +1,9 @@
+com\todomanager\persistent\dao\ActionItemDaoJPA.class
+com\todomanager\service\ActionItemBSImpl.class
+com\todomanager\delegate\ActionItemDelegate.class
+com\todomanager\persistent\entity\ActionItemListContainer.class
+com\todomanager\controller\ActionItemController.class
+com\todomanager\service\ActionItemBusinessService.class
+com\todomanager\persistent\dao\ActionItemDao.class
+com\todomanager\persistent\entity\ActionItem.class
+com\todomanager\constants\TodolistManagerConstants.class

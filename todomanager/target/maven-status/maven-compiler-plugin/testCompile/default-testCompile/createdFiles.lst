@@ -1,0 +1,3 @@
+com\todomanager\persistent\dao\ActionItemUT.class
+com\todomanager\persistent\entity\ActionItem.class
+com\todomanager\persistent\entity\ActionItemListContainer.class
